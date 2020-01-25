@@ -4,7 +4,6 @@
 #
 %define		pdir	XML
 %define		pnam	TokeParser
-%include	/usr/lib/rpm/macros.perl
 Summary:	XML::TokeParser - Simplified interface to XML::Parser
 Summary(pl.UTF-8):	XML::TokeParser - uproszczony interfejs do modułu XML::Parser
 Name:		perl-XML-TokeParser
